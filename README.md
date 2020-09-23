@@ -1,4 +1,4 @@
-![EvoCELLlogo](https://www.evocell-itn.eu/ "Animal Evolution from a cell type perspective")
+![EvoCELLlogo](https://www.evocell-itn.eu/wp-content/uploads/2018/10/Logo_Evocell_text-1.jpg)
 ### Hi there 👋
 - 🔭 I’m currently working as an [Early Stage Researcher](https://ec.europa.eu/research/mariecurieactions/) at [Genomix4life srl](https://www.genomix4life.com/en/)
 as part of the [EvoCELL Network](https://www.evocell-itn.eu/) 
