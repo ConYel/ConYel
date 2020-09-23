@@ -1,6 +1,7 @@
+![EvoCELLlogo](https://www.evocell-itn.eu/ "Animal Evolution from a cell type perspective")
 ### Hi there 👋
 - 🔭 I’m currently working as an [Early Stage Researcher](https://ec.europa.eu/research/mariecurieactions/) at [Genomix4life srl](https://www.genomix4life.com/en/)
-as part of the [EvoCELL Network](https://www.evocell-itn.eu/) ![EVOlogo](https://www.evocell-itn.eu/ "Animal Evolution from a cell type perspective")
+as part of the [EvoCELL Network](https://www.evocell-itn.eu/) 
 - 💬 Ask me about: 
   + piRNAs
   + How to complicate things with R :laughing:
