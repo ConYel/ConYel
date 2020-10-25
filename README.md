@@ -5,7 +5,7 @@ as part of the [EvoCELL Network](https://www.evocell-itn.eu/)
 - :school: I'm a PhD student in Molecular Oncology - Circle XXXIV, at [University of Magna Graecia of Catanzaro](https://www.univerzities.com/italy/university-of-catanzaro/)  <img src="https://www.univerzities.com/images/uni/logo5532.jpg" width="35">   
 but working remotely from [University of Salerno](https://www.labmedmolge.unisa.it/index) ![UniSA](https://web.unisa.it/rescue/img/logo.png)
 - 💬 Ask me about: 
-  + [piRNAs](https://en.wikipedia.org/wiki/Piwi-interacting_RNA)
+  + My PhD project: “Role of Piwi-[piRNA](https://en.wikipedia.org/wiki/Piwi-interacting_RNA)  pathway in somatic stem cell specification and differentiation”
   + How to complicate things with [R](https://rstudio.com/solutions/r-and-python/) :laughing:
   + How to prepare my recipe for [souvlaki](https://duckduckgo.com/?q=%CF%83%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9&t=ffcm&atb=v208-1&iax=images&ia=images) at home 
 - 📫 konstantinos.geles@studenti.unicz.it
