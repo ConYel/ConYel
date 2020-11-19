@@ -6,6 +6,7 @@ as part of the [EvoCELL Network](https://www.evocell-itn.eu/)
 but working remotely from [University of Salerno](https://www.labmedmolge.unisa.it/index) ![UniSA](https://web.unisa.it/rescue/img/logo.png)
 - 💬 Ask me about: 
   + My PhD project: “Role of Piwi-[piRNA](https://en.wikipedia.org/wiki/Piwi-interacting_RNA)  pathway in somatic stem cell specification and differentiation”
+  + the wORKFLOW FOR PiRNAs AnD BEYONd(wind) I developed: [<img src="https://github.com/ConYel/wind/blob/main/WIND_LOGO.png" width="90">](https://github.com/ConYel/wind)
   + How to complicate things with [R](https://rstudio.com/solutions/r-and-python/) :laughing:
   + How to prepare my recipe for [souvlaki](https://duckduckgo.com/?q=%CF%83%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9&t=ffcm&atb=v208-1&iax=images&ia=images) at home 
 - 📫 konstantinos.geles@studenti.unicz.it
