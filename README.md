@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working as an [Early Stage Researcher](https://ec.europa.eu/research/mariecurieactions/) at [Genomix4life srl](https://www.genomix4life.com/en/)
 as part of the [EvoCELL Network](https://www.evocell-itn.eu/) 
-- :school: I'm a PhD student in Molecular Oncology - Circle XXXIV, at [University of Magna Graecia of Catanzaro](https://www.univerzities.com/italy/university-of-catanzaro/)  <img src="https://www.univerzities.com/images/uni/logo5532.jpg" width="35">   
+- :school: I'm a PhD student in Molecular Oncology - Circle XXXIV, at [Università "Magna Græcia" di Catanzaro](https://web.unicz.it/it/)  <img src="https://web.unicz.it/it/img/logo.png" width="60">   
 but working remotely from [University of Salerno](https://www.labmedmolge.unisa.it/index) ![UniSA](https://web.unisa.it/rescue/img/logo.png)
 - 💬 Ask me about: 
   + My PhD project: “Role of Piwi-[piRNA](https://en.wikipedia.org/wiki/Piwi-interacting_RNA)  pathway in somatic stem cell specification and differentiation”
