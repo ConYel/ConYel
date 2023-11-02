@@ -3,8 +3,9 @@
 - 🔭 I’m currently working as an [Early Career Researcher](https://ec.europa.eu/research/mariecurieactions/) at [University of Lille](https://www.univ-lille.fr/)
 in the [ONCOLille](https://www.oncolille.eu/) Research Center.  
 - :school: I have a PhD in Molecular Oncology, from the [Università "Magna Græcia" di Catanzaro](https://web.unicz.it/it/)  <img src="https://web.unicz.it/it/img/logo.png" width="60">   
- and I am a [MSCA-ITN](https://cordis.europa.eu/programme/id/H2020_MSCA-ITN-2015-ETN) alumni and was part of the [EvoCELL Network](https://www.evocell-itn.eu/).
-During my PhD studies I was working in the [University of Salerno](https://www.labmedmolge.unisa.it/index) ![UniSA](https://web.unisa.it/rescue/img/logo.png) and [G4L](https://www.genomix4life.com/en/)
+ and I am a [MSCA-ITN](https://cordis.europa.eu/programme/id/H2020_MSCA-ITN-2015-ETN) alumni.
+
+During my PhD studies I was part of the [EvoCELL Network](https://www.evocell-itn.eu/) and I was working in the [University of Salerno](https://www.labmedmolge.unisa.it/index) ![UniSA](https://web.unisa.it/rescue/img/logo.png) and [G4L](https://www.genomix4life.com/en/)
 - 💬 Ask me about: 
   + My PhD project: “Role of Piwi-[piRNA](https://en.wikipedia.org/wiki/Piwi-interacting_RNA)  pathway in somatic stem cell specification and differentiation”
   + the wORKFLOW FOR PiRNAs AnD BEYONd(wind) I developed: [<img src="https://github.com/ConYel/wind/blob/main/WIND_LOGO.png" width="90">](https://github.com/ConYel/wind)
