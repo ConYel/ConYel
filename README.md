@@ -3,7 +3,7 @@
 - I am and [Open Science Advocate](https://www.credly.com/badges/d0c42305-0a54-446c-8093-b135f1f9b4d2/public_url)  <img src="https://images.credly.com/size/340x340/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png" width="60">
 as well as a bioinformatician.
 - 🔭 I’m currently working as an [Early Career Researcher](https://ec.europa.eu/research/mariecurieactions/) at [University of Lille](https://www.univ-lille.fr/)
-in the [ONCOLille](https://www.oncolille.eu/) Research Center.  
+in the [ONCOLille](https://www.oncolille.eu/) <img src="https://www.oncolille.eu/fileadmin/user_upload/oncolille/logos/ONCOLille-logotype-FR-RVB.svg" width="60" style="background-color:white;padding:60px;">  Research Center.  
 - :school: I have a PhD in Molecular Oncology, from the [Università "Magna Græcia" di Catanzaro](https://web.unicz.it/it/)  <img src="https://web.unicz.it/it/img/logo.png" width="60">   
  and I am a [MSCA-ITN](https://cordis.europa.eu/programme/id/H2020_MSCA-ITN-2015-ETN) alumni.
 
