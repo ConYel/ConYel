@@ -32,7 +32,7 @@ During my PhD studies I was part of the [EvoCELL Network](https://www.evocell-it
   + How to complicate things with [R](https://rstudio.com/solutions/r-and-python/)
   + How to prepare my recipe for [souvlaki](https://duckduckgo.com/?q=%CF%83%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9&t=ffcm&atb=v208-1&iax=images&ia=images) at home 
 - :memo:My [publications](https://www.researchgate.net/profile/Konstantinos_Geles/research)
-
+<a rel="me" href="https://kafeneio.social/@bioinformatician_next_door">Mastodon</a>
 <!--
 **ConYel/ConYel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ...
