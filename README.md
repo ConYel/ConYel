@@ -14,7 +14,8 @@
 
 --------
 ###  :man_technologist: About Me :  
-- :seedling: I am and [Open Science Advocate](https://www.credly.com/badges/d0c42305-0a54-446c-8093-b135f1f9b4d2/public_url)  <img src="https://images.credly.com/size/340x340/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png" width="60">
+- :seedling: I am and [Open Science Advocate](https://www.credly.com/badges/d0c42305-0a54-446c-8093-b135f1f9b4d2/public_url)  <img src="[https://images.credly.com/size/340x340/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png](https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob)" width="60">
+
 as well as a bioinformatician.
 - 🔭 I’m currently working as an [Early Career Researcher](https://ec.europa.eu/research/mariecurieactions/) at [University of Lille](https://www.univ-lille.fr/)
 in the [ONCOLille](https://www.oncolille.eu/)  <img src="https://www.oncolille.eu/fileadmin/user_upload/oncolille/logos/ONCOLille-logotype-FR-RVB.svg" width="80" style="background-color:white;padding:60px;">  Research Center.  
