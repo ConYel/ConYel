@@ -1,4 +1,3 @@
-![EvoCELLlogo](https://www.evocell-itn.eu/wp-content/uploads/2018/10/Logo_Evocell_text-1.jpg)
   <div id="badges">
     <a href="https://www.linkedin.com/in/constantinos-yeles-38aa0ab9/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,8 +13,9 @@
 
 --------
 ###  :man_technologist: About Me :  
-- :seedling: I am and [Open Science Advocate](https://www.credly.com/badges/d0c42305-0a54-446c-8093-b135f1f9b4d2/public_url)  <img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="60">  as well as a bioinformatician.
-- 🔭 I’m currently working as an [Early Career Researcher](https://ec.europa.eu/research/mariecurieactions/) at [University of Lille](https://www.univ-lille.fr/)
+- :seedling: I am and [Open Science Advocate](https://www.credly.com/badges/d0c42305-0a54-446c-8093-b135f1f9b4d2/public_url)  <img src="https://images.credly.com/size/340x340/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="60">  as well as a freelancer bioinformatician and junior open source maintainer at [stageX](https://stagex.tools).
+- I like Neovim and tiling Window managers.
+- 🔭 I previously worked as an [Early Career Researcher](https://ec.europa.eu/research/mariecurieactions/) at [University of Lille](https://www.univ-lille.fr/)
 in the [ONCOLille](https://www.oncolille.eu/)  <img src="https://www.oncolille.eu/fileadmin/user_upload/oncolille/logos/ONCOLille-logotype-FR-RVB.svg" width="80" style="background-color:white;padding:60px;">  Research Center.  
 - :school: I have a PhD in Molecular Oncology, from the [Università "Magna Græcia" di Catanzaro](https://web.unicz.it/it/)  <img src="https://web.unicz.it/it/img/logo.png" width="60">   
  and I am a [MSCA-ITN](https://cordis.europa.eu/programme/id/H2020_MSCA-ITN-2015-ETN) alumni.
@@ -32,6 +32,9 @@ During my PhD studies I was part of the [EvoCELL Network](https://www.evocell-it
   + How to prepare my recipe for [souvlaki](https://duckduckgo.com/?q=%CF%83%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9&t=ffcm&atb=v208-1&iax=images&ia=images) at home 
 - :memo:My [publications](https://www.researchgate.net/profile/Konstantinos_Geles/research)
 <a rel="me" href="https://kafeneio.social/@bioinformatician_next_door">Mastodon</a>
+
+![EvoCELLlogo](https://www.evocell-itn.eu/wp-content/uploads/2018/10/Logo_Evocell_text-1.jpg)
+
 <!--
 **ConYel/ConYel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ...
