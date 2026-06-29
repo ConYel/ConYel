@@ -5,9 +5,6 @@
   <a href="https://ko-fi.com/bioinformaticiannextdoor">
     <img src="https://img.shields.io/badge/Ko--fi-support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Badge"/>
   </a>
-  <a rel="me" href="https://kafeneio.social/@bioinformatician_next_door">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
-  </a>
 </div>
 
 I'm a bioinformatician and open source maintainer. I build tools at the intersection of infrastructure security and bioinformatics — reproducible builds, supply-chain integrity, and analysis pipelines.
