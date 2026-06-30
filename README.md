@@ -8,7 +8,7 @@
 </div>
 
 I'm a bioinformatician and open source maintainer. I build tools at the intersection of infrastructure security and bioinformatics — reproducible builds, supply-chain integrity, and analysis pipelines.
-
+**Support my work:** [💚 GitHub Sponsors](https://github.com/sponsors/ConYel) · [☕ Ko-fi](https://ko-fi.com/bioinformaticiannextdoor) · [🎁 Liberapay](https://liberapay.com/bioinformatician_next_door) · [❤️ Thanks.dev](https://thanks.dev/gh/ConYel)
 ---
 
 ### Open Source Work
@@ -28,8 +28,9 @@ PhD in Molecular Oncology (Magna Graecia University). Previously at ONCOLille Re
 
 ---
 
-<div align="center">
-  <a href="https://ko-fi.com/bioinformaticiannextdoor">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi" width="200"/>
-  </a>
-</div>
+## Support
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ConYel?style=social&logo=github)](https://github.com/sponsors/ConYel)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/bioinformaticiannextdoor)
+[![Liberapay](https://img.shields.io/liberapay/receives/bioinformatician_next_door.svg?logo=liberapay)](https://liberapay.com/bioinformatician_next_door)
+[![Thanks.dev](https://img.shields.io/badge/Thanks.dev-support-000?logo=github)](https://thanks.dev/gh/ConYel)
