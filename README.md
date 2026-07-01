@@ -24,7 +24,7 @@ Comparative performance analysis of Pi-hole, Blocky, AdGuard Home, Ferrous DNS, 
 
 ### Background
 
-PhD in Molecular Oncology (Magna Graecia University). Previously at ONCOLille Research Center (University of Lille) as an MSCA Early Career Researcher, and at the Laboratory of Molecular Medicine and Genomics (University of Salerno). EvoCELL ITN alum.
+PhD in Molecular Oncology (Magna Graecia University). Previously at ONCOLille Research Center (University of Lille) as post doctoral researcher, before as an MSCA Early Career Researcher,  at the Laboratory of Molecular Medicine and Genomics (University of Salerno). EvoCELL ITN alum.
 
 ---
 
